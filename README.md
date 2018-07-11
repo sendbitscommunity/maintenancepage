@@ -1,2 +1,2 @@
-# kamaleaocolorfortaleza
-site kamaleaocolorfortaleza.com.br
+# Maintenance Page
+simple maintenance page for websites
